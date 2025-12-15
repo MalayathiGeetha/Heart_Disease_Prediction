@@ -1,0 +1,6 @@
+Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,Prediction_LR
+50,1,3,130,250,0,0,160,0,1.2,1,1
+62,0,2,145,270,1,2,140,1,2.8,2,1
+45,1,1,120,210,0,1,170,0,0.6,0,0
+39,0,0,110,180,0,0,190,0,0.0,0,0
+58,1,3,138,260,1,1,150,1,1.9,1,1
